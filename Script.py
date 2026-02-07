@@ -5,7 +5,19 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
     
-ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ ᴇᴀʀɴ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏɴᴇʏ...💸</b>"""
+Welcome to the ultimate Telugu Anime World. 🌏
+
+I am here to provide you with your favorite Anime series and movies purely in Telugu Audio. From Naruto to Demon Slayer, get everything in our language!
+
+🔥 How to search: Just type the anime name (e.g., one punch man S01E01).
+
+🚀 Bot Features:
+
+🔊 100% Telugu Dubbed
+
+💿 High Quality (720p)
+
+⚡ Instant Direct Files</b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
@@ -752,4 +764,5 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
 
